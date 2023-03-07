@@ -14,3 +14,4 @@ for (popinc > 0 ){
   println(" Enter a positive number.")
   //Ask user for the number of days population will multiply
   print("Enter the number of days population will multiply:")
+  numofdays = readLine()!!.toInt()
