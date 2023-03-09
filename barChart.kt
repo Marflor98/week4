@@ -3,6 +3,10 @@ val store2 : Int
 val store3 : Int
 val store4 : Int
 val store5 : Int 
+val stores = listOf("store1", "store2", "store3", "store4", "store5")
+for (100 in stores) {
+    println(*)
+}
 //Get store1 sales
 print("Enter today's sales for store 1:")
 store1 = readLine()!!to.Int()
