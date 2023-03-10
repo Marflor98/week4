@@ -1,3 +1,4 @@
+fun main () {
 val store1 : Int
 val store2 : Int
 val store3 : Int
@@ -22,3 +23,4 @@ store4 = readLine()!!to.Int()
 //Get store5 sales
 print("Enter today's sales for store 5:")
 store5 = readLine()!!to.Int()
+}
