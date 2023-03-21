@@ -17,3 +17,5 @@ for (popinc > 0 ){
   numofdays = readLine()!!.toInt()
 for (numofdays > 1) {
 println(" Enter a number greater than zero")
+while (numofdays < 7) {
+  println("Enter a number less than 8")
